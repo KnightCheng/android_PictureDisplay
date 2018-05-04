@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DisplayPicture</string>
+    <string name="viewpager_indicator">图片查看器</string>
+</resources>
